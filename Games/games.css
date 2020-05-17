@@ -1,0 +1,17 @@
+body{
+	float: center;
+	background-size: cover;
+	height: 100% 720px;
+	font-family: cursive;
+	background-image: linear-gradient(-190deg,white,pink, pink, white);
+
+}
+table{
+	width: 90%;
+	table-layout: all;
+	border: none;
+}
+table img{
+	border-radius: 10px;
+	box-shadow: 0 4px 16px 4px rgba(0,0,0,.5);
+}
